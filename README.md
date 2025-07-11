@@ -6,7 +6,7 @@ A simple legal assistant frontend interface built using **React.js + Tailwind CS
 
 ---
 
-## 🔗 Live Demo (Optional)
+## 🔗 Live Demo:
 
 [👉 Click to View Deployed App](https://lexisg-frontend-intern-test-puneetharaj-k-rs-projects.vercel.app/)
 
