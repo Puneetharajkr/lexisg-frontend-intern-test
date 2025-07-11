@@ -102,8 +102,13 @@ http://localhost:5173
 ```text
 In a motor accident claim where the deceased was self-employed and aged 54–55 years...
 ```
+Loder Before Fetching Result
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0fa316b-9cc9-4b73-abfc-e655d59e9f41" />
 
-📷 `screenshots/sample-query.png`
+
+📷 Result:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1014eb8-699d-4a65-a200-5bea57a6dd54" />
+
 
 ---
 
@@ -114,7 +119,14 @@ In a motor accident claim where the deceased was self-employed and aged 54–55 
 Is a handwritten will legally valid in India?
 ```
 
-📷 `screenshots/will-query.png`
+📷 Result:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5668315-e788-4f64-8a9f-f92853a598f9" />
+
+📂 Citation & PDF Viewer
+- Clicking **"View Source"** opens a modal using `react-pdf`
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1a5f8b0-0590-4a33-bbb5-f765acb25ef7" />
+
+
 
 ---
 
@@ -125,7 +137,11 @@ Is a handwritten will legally valid in India?
 hello how are you
 ```
 
-📷 `screenshots/generic-query.png`
+📷 Result:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c900e1f-35eb-45d6-86bc-ba372141a37c" />
+
+Scrollabale Popup Pdf View:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ef0b926-c26d-4a31-88c1-f72243686b7a" />
 
 ---
 
@@ -151,3 +167,7 @@ hello how are you
 
 This project was built with care to match Lexi's expectations 100%.  
 For any questions or clarifications, feel free to reach out via email or GitHub.
+
+## Contact
+GitHub: @Puneetharajkr  
+Email: puneetharajkr123@gmail.com
